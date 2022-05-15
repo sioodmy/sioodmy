@@ -1,0 +1,70 @@
+:root {
+    --background: #1E1E2E;
+    --foreground: #D9E0EE;
+}
+
+@font-face {
+  font-family: iosevka;
+  src: url(iosevka_bold.ttf);
+  font-weight: bold;
+}
+
+
+@font-face {
+  font-family: iosevka;
+  src: url(iosevka_normal.ttf);
+  font-weight: normal;
+}
+
+body {
+    background-color: var(--background);
+    margin: 0;
+    padding: 0;
+    color: var(--foreground);
+    font-family: 'iosevka'
+}
+
+.content {
+    height: 100vh;
+    display: grid;
+    place-items: center;
+}
+
+.box > h1 {
+    font-size: 8rem;
+    border-bottom: 10px solid var(--foreground);
+    border-radius: 0px 0px 5px 5px;
+}
+
+.links {
+    margin-top: -4rem;
+}
+.links > a {
+    text-align: center;
+    font-size: 4rem;
+}
+a {
+    color: var(--foreground);
+    display: block;
+    letter-spacing: 2px;
+    transition: 0.9s;
+}
+
+.links > a:hover { 
+    text-decoration: underline;
+}
+
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 500,
+  'GRAD' 200,
+  'opsz' 40
+}
+
+.box {
+    max-width: 500px;
+}
+
+
