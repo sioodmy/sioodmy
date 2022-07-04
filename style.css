@@ -1,6 +1,6 @@
 :root {
-    --background: #2e3440;
-    --foreground: #d8dee9;
+    --background: #24273a;
+    --foreground: #cad3f5;
 }
 
 body {
@@ -61,7 +61,7 @@ a {
     transition: 0.9s;
 }
 
-.links > a:hover { 
+.links > a:hover {
     text-decoration: underline;
 }
 
