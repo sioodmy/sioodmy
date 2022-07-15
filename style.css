@@ -1,81 +1,86 @@
 :root {
-    --background: #24273a;
-    --foreground: #cad3f5;
+  --background: #24273a;
+  --foreground: #cad3f5;
 }
 
 body {
-    background-color: var(--background);
-    margin: 0;
-    padding: 0;
-    color: var(--foreground);
-    font-family: 'Open Sans', sans-serif;
+  background-color: var(--background);
+  margin: 0;
+  padding: 0;
+  color: var(--foreground);
+  font-family: "Open Sans", sans-serif;
 }
 
 .back {
-    font-size: 2rem;
-    margin-left: -3rem;
-    text-decoration: none;
-    line-height: 5rem;
+  font-size: 2rem;
+  margin-left: -3rem;
+  text-decoration: none;
+  line-height: 5rem;
 }
 
 .about {
-    font-family: 'JetBrains Mono', monospace;
-    font-size: 1.4rem;
+  font-family: "JetBrains Mono", monospace;
+  font-size: 1.4rem;
 }
 
 .ipa {
-    font-family: 'Voces', cursive;
+  font-family: "Voces", cursive;
 }
 
 .feather {
-    color: var(--foreground);
-    float: left;
-    margin: 1rem;
+  color: var(--foreground);
+  float: left;
+  margin: 1rem;
 }
 .content {
-    height: 100vh;
-    display: grid;
-    place-items: center;
+  height: 100vh;
+  display: grid;
+  place-items: center;
 }
 
-
 .box > h1 {
-    font-size: 8rem;
-    border-radius: 0px 0px 5px 5px;
+  font-size: 8rem;
+  border-radius: 0px 0px 5px 5px;
 }
 
 .icons {
-    margin-top: -6rem;
-    display: flex;
-    justify-content: center;
+  margin-top: -6rem;
+  display: flex;
+  justify-content: center;
 }
 .icons > a {
-    text-align: center;
-    text-decoration: none;
-    font-size: 4rem;
+  text-align: center;
+  text-decoration: none;
+  font-size: 4rem;
+}
+code {
+  box-sizing: border-box;
+  margin: 0px;
+  min-width: 0px;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 500;
+  word-break: break-all;
 }
 a {
-    color: var(--foreground);
-    display: block;
-    letter-spacing: 2px;
-    transition: 0.9s;
+  color: var(--foreground);
+  display: block;
+  letter-spacing: 2px;
+  transition: 0.9s;
+}
+
+.crypto > li {
+  margin-top: 1em;
 }
 
 .links > a:hover {
-    text-decoration: underline;
+  text-decoration: underline;
 }
 
-
 .material-symbols-outlined {
-    font-variation-settings:
-    'FILL' 0,
-    'wght' 500,
-    'GRAD' 200,
-    'opsz' 40
+  font-variation-settings: "FILL" 0, "wght" 500, "GRAD" 200, "opsz" 40;
 }
 
 .box {
-    max-width: 500px;
+  max-width: 500px;
 }
-
-
