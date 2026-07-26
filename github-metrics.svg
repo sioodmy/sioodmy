@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -225,14 +225,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="173.74658313678083" height="8" fill="#44a51c"/>
-                    <rect mask="url(#languages-bar)" x="173.74658313678083" y="0" width="105.30292446478002" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="279.0495076015609" y="0" width="85.32209276227452" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="364.3716003638354" y="0" width="45.66961856348022" height="8" fill="#7e7eff"/>
-                    <rect mask="url(#languages-bar)" x="410.04121892731564" y="0" width="19.195813530423962" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="429.2370324577396" y="0" width="11.826170159985194" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="441.06320261772476" y="0" width="10.957107587385465" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="452.0203102051102" y="0" width="7.979689794889767" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="173.64375770498404" height="8" fill="#44a51c"/>
+                    <rect mask="url(#languages-bar)" x="173.64375770498404" y="0" width="105.12914496691575" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="278.7729026718998" y="0" width="85.7565114977231" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="364.5294141696229" y="0" width="45.59425082396156" height="8" fill="#7e7eff"/>
+                    <rect mask="url(#languages-bar)" x="410.12366499358444" y="0" width="19.164135029058798" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="429.2878000226433" y="0" width="11.806653646816113" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="441.09445366945937" y="0" width="10.9390252723476" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="452.033478941807" y="0" width="7.96652105819307" height="8" fill="#89e051"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -295,14 +295,14 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #BAC200">Your fortune: Average Luck</b>
+                            <b style="color: #00CBB0">Your fortune: ｷﾀ━━━━━━(ﾟ∀ﾟ)━━━━━━ !!!!</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Jul 2026, 13:40:45 (timezone UTC) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Jul 2026, 15:02:17 (timezone UTC) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
