@@ -1,3 +1,3 @@
-# haiii :3
+# Hello
 
-![metrics](https://raw.githubusercontent.com/sioodmy/sioodmy/main/github-metrics.svg)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=sioodmy)
